@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Lect 4\Lect 4\bin\Debug\net7.0-windows\Lect 4.exe
+C:\Users\user\source\repos\Lect 4\Lect 4\bin\Debug\net7.0-windows\Lect 4.deps.json
+C:\Users\user\source\repos\Lect 4\Lect 4\bin\Debug\net7.0-windows\Lect 4.runtimeconfig.json
+C:\Users\user\source\repos\Lect 4\Lect 4\bin\Debug\net7.0-windows\Lect 4.dll
+C:\Users\user\source\repos\Lect 4\Lect 4\bin\Debug\net7.0-windows\Lect 4.pdb
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\Lect 4.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\Lect_4.Form1.resources
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\Lect 4.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\Lect 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\Lect 4.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\Lect 4.AssemblyInfo.cs
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\Lect 4.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\Lect 4.dll
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\refint\Lect 4.dll
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\Lect 4.pdb
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\Lect 4.genruntimeconfig.cache
+C:\Users\user\source\repos\Lect 4\Lect 4\obj\Debug\net7.0-windows\ref\Lect 4.dll
